@@ -1,4 +1,4 @@
-package Lecture01_Object;
+package java.lecture01_Object;
 
 /*
 4 Объект - зарядка от телефона

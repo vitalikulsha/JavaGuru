@@ -1,4 +1,4 @@
-package Lecture01_Object;
+package java.lecture01_Object;
 
 /*
 5 Объект - Bluetooth наушники

@@ -1,4 +1,4 @@
-package Lecture01_Object;
+package java.lecture01_Object;
 
 public class Main {
     public static void main(String[] args) {
